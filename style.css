@@ -1,0 +1,23 @@
+html {
+  overflow: hidden;
+}
+
+.homepage {
+  background-image: url("bg-bl.png");
+  min-height: 100vh;
+}
+
+.formpage {
+  height: 100vh;
+  background-image: url("bg-yl.png");
+}
+
+a {
+  text-decoration: none;
+}
+
+.aligned {
+  display: flex !important;
+  align-items: center !important;
+  align-content: center !important;
+}
